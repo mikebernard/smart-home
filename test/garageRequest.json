@@ -1,0 +1,24 @@
+{
+  "session": {
+    "sessionId": "SessionId.09dff711-5678-47a1-9e03-e13cc306df81",
+    "application": {
+      "applicationId": "amzn1.ask.skill.1e1e726e-2976-474f-bc0a-46df6e4a459a"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGEYEOF6GDHG65YFPEYCEKTYVIYLKJQ5OT4XMQMTPORJNLBGQGJXPDWJ2QYLIDZTC4DEVBRHGZ3VD2X4XM3TQF3YADBQ2SADAHGOXZPGEAWAFQMWYABXOZL4UX7CYC3I3NRR55OB6TKKJEH7FZK4EEYR4QRJYSKUY7UCVRJDEBKBAXMEW4GHNCKHHA3TMUMWY4KUNSAXMZWS6EY"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.a1a278ca-ca43-4489-b9b2-d4b679fa50ae",
+    "locale": "en-US",
+    "timestamp": "2017-03-05T16:38:06Z",
+    "intent": {
+      "name": "GarageDoorOpener",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
