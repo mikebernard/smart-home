@@ -13,9 +13,9 @@ const handlers = {
 	'Activate': function(req, res) {
 		var message = '';
 		var destination = {
-			host: 'mikebernard.net',
-			port: 1369,
-			path: '/activate'
+			host: 'domain',
+			port: ****,
+			path: 'endpoint'
 		};
 		var promise = new Promise(function(resolve, reject){
 			http.get(destination, function(error, response){
